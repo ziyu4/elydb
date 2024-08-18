@@ -1,1 +1,58 @@
-
+{
+  boss: [
+    {
+      chapter: "1",
+      locked: "yes",
+      name: "Boss Colon",
+      location: "Land Under Development",
+      element: "Earth",
+      def: "7",
+      pres: "0",
+      mdef: "7",
+      mres: "0",
+      pprorate: "10",
+      mprorate: "10",
+      nprorate: "15",
+      critres: "0",
+      flee: "11",
+      reteliates: "none"
+      breakpart: ""
+    },
+    {
+      chapter: "1",
+      locked: "yes",
+      name: "Excavated Golem",
+      location: "Underground Ruins: Deepest Part",
+      element: "Neutral",
+      def: "12",
+      pres: "0",
+      mdef: "12",
+      mres: "0",
+      pprorate: "15",
+      mprorate: "15",
+      nprorate: "10",
+      critres: "0",
+      flee: "12",
+      breakpart: "3 Parts: Torso, Left Shield (SHIELD), Right Hind Leg (BOW)",
+      reteliates: "none\n\nnote: Breaking parts will reduce boss's defenses by 100%."
+    },
+    {
+      chapter: "",
+      locked: "",
+      name: "",
+      location: "",
+      element: "",
+      def: "",
+      pres: "",
+      mdef: "",
+      mres: "",
+      pprorate: "",
+      mprorate: "",
+      nprorate: "",
+      critres: "",
+      flee: "",
+      breakpart: "",
+      reteliates: ""
+}
+  ]
+};
