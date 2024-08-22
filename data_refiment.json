@@ -9,7 +9,7 @@
     {
       "title": "Character stat distribution",
       "statdis": "i. Full tech (255) recommended for 0 - B/A\nii. Full luck (255) recommend for A -S",
-      "statdis": "- Full tech (255) recommended skills:\n1. Refine equipment level 10\n2. Mid class refinement level 10\n3. High class refinement level 10\n4. Expert class refinement level 10\n\n- Full luck (255) recommended skills:\n1. Refine equipment level 1"
+      "skill": "- Full tech (255) recommended skills:\n1. Refine equipment level 10\n2. Mid class refinement level 10\n3. High class refinement level 10\n4. Expert class refinement level 10\n\n- Full luck (255) recommended skills:\n1. Refine equipment level 1"
     }
   ],
   "ore_bonus": [
@@ -30,7 +30,6 @@
           "High-purity Orichalcum": "+48"
         }
       ],
-  
     }
   ]
 }
