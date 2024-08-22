@@ -13,7 +13,8 @@
     "mprorate": "10",
     "nprorate": "15",
     "critres": "0",
-    "flee": "11"
+    "flee": "11",
+    "retaliation": ""
   },
   {
     "name": "Excavated golem",
@@ -29,7 +30,8 @@
     "mprorate": "15",
     "nprorate": "10",
     "critres": "0",
-    "flee": "12"
+    "flee": "12",
+    "retaliation": ""
   },
   {
     "name": "Eerie crystal",
@@ -45,7 +47,8 @@
     "mprorate": "5",
     "nprorate": "30",
     "critres": "0",
-    "flee": "0"
+    "flee": "0",
+    "retaliation": ""
   },
   {
     "name": "Minotaur",
@@ -61,7 +64,8 @@
     "mprorate": "5",
     "nprorate": "30",
     "critres": "0",
-    "flee": "48"
+    "flee": "48",
+    "retaliation": ""
   },
   {
     "name": "Brutal dragon decel",
@@ -77,7 +81,8 @@
     "mprorate": "20",
     "nprorate": "8",
     "critres": "0",
-    "flee": "75"
+    "flee": "75",
+    "retaliation": ""
   },
   {
     "name": "Gespenst",
@@ -93,7 +98,8 @@
     "mprorate": "15",
     "nprorate": "20",
     "critres": "0",
-    "flee": "30"
+    "flee": "30",
+    "retaliation": ""
   },
   {
     "name": "Forest wolf",
@@ -109,7 +115,8 @@
     "mprorate": "20",
     "nprorate": "8",
     "critres": "0",
-    "flee": "45"
+    "flee": "45",
+    "retaliation": ""
   },
   {
     "name": "Boss goblin",
@@ -125,7 +132,8 @@
     "mprorate": "10",
     "nprorate": "15",
     "critres": "0",
-    "flee": "75"
+    "flee": "75",
+    "retaliation": ""
   },
   {
     "name": "Mochelo",
@@ -141,7 +149,8 @@
     "mprorate": "50",
     "nprorate": "3",
     "critres": "0",
-    "flee": "64"
+    "flee": "64",
+    "retaliation": ""
   },
   {
     "name": "Flare volg",
@@ -157,7 +166,8 @@
     "mprorate": "25",
     "nprorate": "6",
     "critres": "0",
-    "flee": "56"
+    "flee": "56",
+    "retaliation": ""
   },
   {
     "name": "Ooze",
@@ -173,7 +183,8 @@
     "mprorate": "5",
     "nprorate": "30",
     "critres": "0",
-    "flee": "0"
+    "flee": "0",
+    "retaliation": ""
   },
   {
     "name": "Mauez",
@@ -189,7 +200,8 @@
     "mprorate": "10",
     "nprorate": "15",
     "critres": "0",
-    "flee": "PH1:4 PH2:246"
+    "flee": "PH1:4 PH2:246",
+    "retaliation": ""
   },
   {
     "name": "Ganglef",
@@ -205,7 +217,8 @@
     "mprorate": "25",
     "nprorate": "6",
     "critres": "0",
-    "flee": "43"
+    "flee": "43",
+    "retaliation": ""
   },
   {
     "name": "Demon's gate",
@@ -221,7 +234,8 @@
     "mprorate": "1",
     "nprorate": "150",
     "critres": "0",
-    "flee": "0"
+    "flee": "0",
+    "retaliation": ""
   },
   {
     "name": "Boss roga",
@@ -237,7 +251,8 @@
     "mprorate": "10",
     "nprorate": "15",
     "critres": "0",
-    "flee": "279 FTS:93"
+    "flee": "279 FTS:93",
+    "retaliation": ""
   },
   {
     "name": "Astol",
@@ -253,7 +268,8 @@
     "mprorate": "25",
     "nprorate": "6",
     "critres": "0",
-    "flee": "112"
+    "flee": "112",
+    "retaliation": ""
   },
   {
     "name": "Forestia",
@@ -269,7 +285,8 @@
     "mprorate": "10",
     "nprorate": "15",
     "critres": "0",
-    "flee": "292"
+    "flee": "292",
+    "retaliation": ""
   },
   {
     "name": "Ruin golem",
@@ -285,7 +302,8 @@
     "mprorate": "15",
     "nprorate": "10",
     "critres": "0",
-    "flee": "14"
+    "flee": "14",
+    "retaliation": ""
   },
   {
     "name": "Warmonger",
@@ -301,7 +319,8 @@
     "mprorate": "1",
     "nprorate": "150",
     "critres": "0",
-    "flee": "45"
+    "flee": "45",
+    "retaliation": ""
   },
   {
     "name": "Ancient empress",
@@ -314,10 +333,11 @@
     "mdef": 32,
     "mres": 52,
     "pprorate": 10,
-    "M. Prorat": 10,
+    "mprorate": 10,
     "nprorate": 15,
-    "Crit. Res": 0,
-    "flee": 48
+    "critres": 0,
+    "flee": 48,
+    "retaliation": ""
   },
   {
     "name": "Masked warrior",
@@ -330,10 +350,11 @@
     "mdef": 134,
     "mres": 2,
     "pprorate": 25,
-    "M. Prorat": 25,
+    "mprorate": 25,
     "nprorate": 6,
-    "Crit. Res": 0,
-    "flee": 200
+    "critres": 0,
+    "flee": 200,
+    "retaliation": ""
   },
   {
     "name": "Pillar golem",
@@ -346,10 +367,11 @@
     "mdef": "N: 140\nEN: 1400",
     "mres": "N: 2\nEN: 12",
     "pprorate": 25,
-    "M. Prorat": 25,
+    "mprorate": 25,
     "nprorate": 6,
-    "Crit. Res": 0,
-    "flee": 11
+    "critres": 0,
+    "flee": 11,
+    "retaliation": ""
   },
   {
     "name": "Grass dragon\nyelb",
@@ -362,10 +384,11 @@
     "mdef": "N: 219\nSHELL: 657",
     "mres": "N: 2\nSHELL: 2",
     "pprorate": 50,
-    "M. Prorat": 50,
+    "mprorate": 50,
     "nprorate": 3,
-    "Crit. Res": 0,
-    "flee": 87
+    "critres": 0,
+    "flee": 87,
+    "retaliation": ""
   },
   {
     "name": "Nurethoth",
@@ -378,10 +401,11 @@
     "mdef": "PH1: 152\nPH2 76",
     "mres": "PH1: 23\nPH2: 3",
     "pprorate": 2,
-    "M. Prorat": 2,
+    "mprorate": 2,
     "nprorate": 75,
-    "Crit. Res": 0,
-    "flee": "PH1: 57\nPH2: 285"
+    "critres": 0,
+    "flee": "PH1: 57\nPH2: 285",
+    "retaliation": ""
   },
   {
     "name": "B.b. goblin",
@@ -394,10 +418,11 @@
     "mdef": 210,
     "mres": 1,
     "pprorate": 10,
-    "M. Prorat": 10,
+    "mprorate": 10,
     "nprorate": 15,
-    "Crit. Res": 0,
-    "flee": 157
+    "critres": 0,
+    "flee": 157,
+    "retaliation": ""
   },
   {
     "name": "Goovua",
@@ -410,10 +435,11 @@
     "mdef": "PH1: 41\nPH2: 57\nPH3: 82\nLHP: 0",
     "mres": 3,
     "pprorate": 10,
-    "M. Prorat": 10,
+    "mprorate": 10,
     "nprorate": 15,
-    "Crit. Res": 0,
-    "flee": "PH1: 246\nPH2: 273\nPH3: 308\nLHP: 0"
+    "critres": 0,
+    "flee": "PH1: 246\nPH2: 273\nPH3: 308\nLHP: 0",
+    "retaliation": ""
   },
   {
     "name": "Scrader",
@@ -426,10 +452,11 @@
     "mdef": 255,
     "mres": 3,
     "pprorate": 1,
-    "M. Prorat": 1,
+    "mprorate": 1,
     "nprorate": 150,
-    "Crit. Res": 0,
-    "flee": 64
+    "critres": 0,
+    "flee": 64,
+    "retaliation": ""
   },
   {
     "name": "Black knight of\ndeluusion",
@@ -442,10 +469,11 @@
     "mdef": 176,
     "mres": "PH1: 23\nPH2: 33",
     "pprorate": 30,
-    "M. Prorat": 30,
+    "mprorate": 30,
     "nprorate": 5,
-    "Crit. Res": 0,
-    "flee": 231
+    "critres": 0,
+    "flee": 231,
+    "retaliation": ""
   },
   {
     "name": "Evil crystal beast",
@@ -458,10 +486,11 @@
     "mdef": "PH1: 320\nPH2: 183",
     "mres": 3,
     "pprorate": 30,
-    "M. Prorat": 30,
+    "mprorate": 30,
     "nprorate": 5,
-    "Crit. Res": 0,
-    "flee": "PH1: 136\nPH2: 163"
+    "critres": 0,
+    "flee": "PH1: 136\nPH2: 163",
+    "retaliation": ""
   },
   {
     "name": "Jade raptor",
@@ -474,10 +503,11 @@
     "mdef": 198,
     "mres": 3,
     "pprorate": 40,
-    "M. Prorat": 40,
+    "mprorate": 40,
     "nprorate": 4,
-    "Crit. Res": 0,
-    "flee": 177
+    "critres": 0,
+    "flee": 177,
+    "retaliation": ""
   },
   {
     "name": "Cerberus",
@@ -490,10 +520,11 @@
     "mdef": "N: 146\nF: 49\nT: 970\nS: 97\nLHP: 194",
     "mres": "N: 3\nF: 3\nT: 50\nS: -5\nLHP: 10",
     "pprorate": 20,
-    "M. Prorat": 15,
+    "mprorate": 15,
     "nprorate": 15,
-    "Crit. Res": 0,
-    "flee": 145
+    "critres": 0,
+    "flee": 145,
+    "retaliation": ""
   },
   {
     "name": "Zolban",
@@ -506,10 +537,11 @@
     "mdef": 392,
     "mres": 3,
     "pprorate": 1,
-    "M. Prorat": 1,
+    "mprorate": 1,
     "nprorate": 150,
-    "Crit. Res": 0,
-    "flee": 588
+    "critres": 0,
+    "flee": 588,
+    "retaliation": ""
   },
   {
     "name": "Aranea",
@@ -522,10 +554,11 @@
     "mdef": "PH1: 110\nPH2: 100",
     "mres": 4,
     "pprorate": 20,
-    "M. Prorat": 15,
+    "mprorate": 15,
     "nprorate": 10,
-    "Crit. Res": 0,
-    "flee": "PH1: 300\nPH2: 375"
+    "critres": 0,
+    "flee": "PH1: 300\nPH2: 375",
+    "retaliation": ""
   },
   {
     "name": "Bexiz",
@@ -538,10 +571,11 @@
     "mdef": 247,
     "mres": 4,
     "pprorate": 40,
-    "M. Prorat": 50,
+    "mprorate": 50,
     "nprorate": 35,
-    "Crit. Res": 0,
-    "flee": 123
+    "critres": 0,
+    "flee": 123,
+    "retaliation": ""
   },
   {
     "name": "Imitator",
@@ -554,10 +588,11 @@
     "mdef": 392,
     "mres": 20,
     "pprorate": 35,
-    "M. Prorat": 35,
+    "mprorate": 35,
     "nprorate": 30,
-    "Crit. Res": 0,
-    "flee": 238
+    "critres": 0,
+    "flee": 238,
+    "retaliation": ""
   },
   {
     "name": "Imitacia",
@@ -570,10 +605,11 @@
     "mdef": "PH1: 218\nFROZ: 33\nPH2: 109",
     "mres": "PH1: 35\nFROZ: 10\nPH2: 4",
     "pprorate": 35,
-    "M. Prorat": 40,
+    "mprorate": 40,
     "nprorate": 30,
-    "Crit. Res": 0,
-    "flee": "PH1: 302\nFROZ: 163\nPH2: 489"
+    "critres": 0,
+    "flee": "PH1: 302\nFROZ: 163\nPH2: 489",
+    "retaliation": ""
   },
   {
     "name": "Inzanio\nthe dark knight",
@@ -586,10 +622,11 @@
     "mdef": "PH1: 188\nPH2: 235",
     "mres": 3,
     "pprorate": 35,
-    "M. Prorat": 35,
+    "mprorate": 35,
     "nprorate": 4,
-    "Crit. Res": 0,
-    "flee": 176
+    "critres": 0,
+    "flee": 176,
+    "retaliation": ""
   },
   {
     "name": "Memecoleous",
@@ -602,10 +639,11 @@
     "mdef": 242,
     "mres": 4,
     "pprorate": 20,
-    "M. Prorat": 40,
+    "mprorate": 40,
     "nprorate": 40,
-    "Crit. Res": 0,
-    "flee": 248
+    "critres": 0,
+    "flee": 248,
+    "retaliation": ""
   },
   {
     "name": "Twilight dragon",
@@ -618,10 +656,11 @@
     "mdef": "PH1: 260\nPH2: 300\nPH1: 140",
     "mres": 4,
     "pprorate": 20,
-    "M. Prorat": 20,
+    "mprorate": 20,
     "nprorate": 8,
-    "Crit. Res": 0,
-    "flee": "PH1: 240\nPH2: 255"
+    "critres": 0,
+    "flee": "PH1: 240\nPH2: 255",
+    "retaliation": ""
   },
   {
     "name": "Iconos",
@@ -634,10 +673,11 @@
     "mdef": "PH1: 140\nPH2: 194\nPH3: 248\nPH4: 302",
     "mres": "PH1: 10\nPH2: 15\nPH3: 20\nPH4: 25",
     "pprorate": "0",
-    "M. Prorat": "0",
+    "mprorate": "0",
     "nprorate": "0",
-    "Crit. Res": "0",
-    "flee": "162"
+    "critres": "0",
+    "flee": "162",
+    "retaliation": ""
   },
   {
     "name": "Ifrid",
@@ -650,10 +690,11 @@
     "mdef": "158",
     "mres": "4",
     "pprorate": "30",
-    "M. Prorat": "15",
+    "mprorate": "15",
     "nprorate": "30",
-    "Crit. Res": "0",
-    "flee": "185"
+    "critres": "0",
+    "flee": "185",
+    "retaliation": ""
   },
   {
     "name": "Proto leon",
@@ -666,10 +707,11 @@
     "mdef": "PH1: 138\nPH1FTS: 58\nPH2: 207",
     "mres": "PH1: 4\nPH2: 24",
     "pprorate": "30",
-    "M. Prorat": "15",
+    "mprorate": "15",
     "nprorate": "15",
-    "Crit. Res": "0",
-    "flee": "275"
+    "critres": "0",
+    "flee": "275",
+    "retaliation": ""
   },
   {
     "name": "York",
@@ -682,10 +724,11 @@
     "mdef": "PH1: 118\nPH2: 236\nPH3: 354\nPH4: 0",
     "mres": "PH1: 4\nPH2: 4\nPH3: 50\nPH4: 0",
     "pprorate": "45",
-    "M. Prorat": "0",
+    "mprorate": "0",
     "nprorate": "30",
-    "Crit. Res": "0",
-    "flee": "PH1: 248\nPH2: 354\nPH3: 89\nPH4: 0"
+    "critres": "0",
+    "flee": "PH1: 248\nPH2: 354\nPH3: 89\nPH4: 0",
+    "retaliation": ""
   },
   {
     "name": "Tyrant machina",
@@ -698,10 +741,11 @@
     "mdef": "PH1: 61\nGREEN+T: 387\nPH2: 242",
     "mres": "PH1: 4\nGREEN: 25\nPH2: 10",
     "pprorate": "10",
-    "M. Prorat": "10",
+    "mprorate": "10",
     "nprorate": "100",
-    "Crit. Res": "0",
-    "flee": "PH1: 543\nGREEN: 181\nPH2: 181"
+    "critres": "0",
+    "flee": "PH1: 543\nGREEN: 181\nPH2: 181",
+    "retaliation": ""
   },
   {
     "name": "Mozto machina",
@@ -714,10 +758,11 @@
     "mdef": "PH1: 372\nPH2: 248",
     "mres": "15",
     "pprorate": "50",
-    "M. Prorat": "50",
+    "mprorate": "50",
     "nprorate": "100",
-    "Crit. Res": "0",
-    "flee": "PH1: 186\nPH2: 372"
+    "critres": "0",
+    "flee": "PH1: 186\nPH2: 372",
+    "retaliation": ""
   },
   {
     "name": "Tapir",
@@ -730,10 +775,11 @@
     "mdef": "168",
     "mres": "4",
     "pprorate": "25",
-    "M. Prorat": "40",
+    "mprorate": "40",
     "nprorate": "30",
-    "Crit. Res": "0",
-    "flee": "360"
+    "critres": "0",
+    "flee": "360",
+    "retaliation": ""
   },
   {
     "name": "Lalvada",
@@ -746,10 +792,11 @@
     "mdef": "GREEN: 446\nYELLOW: 382\nPH2: 382",
     "mres": "15",
     "pprorate": "30",
-    "M. Prorat": "40",
+    "mprorate": "40",
     "nprorate": "10",
-    "Crit. Res": "0",
-    "flee": "228"
+    "critres": "0",
+    "flee": "228",
+    "retaliation": ""
   },
   {
     "name": "Zahhak machina",
@@ -762,10 +809,11 @@
     "mdef": "N: 1000\nS: 350\nPOIS: 350",
     "mres": "5",
     "pprorate": "2",
-    "M. Prorat": "1",
+    "mprorate": "1",
     "nprorate": "4",
-    "Crit. Res": "0",
-    "flee": "0"
+    "critres": "0",
+    "flee": "0",
+    "retaliation": ""
   },
   {
     "name": "Guignol",
@@ -778,10 +826,11 @@
     "mdef": "0",
     "mres": "BLUE: 80\nYELLOW: 55\nRED: 30",
     "pprorate": "5",
-    "M. Prorat": "5",
+    "mprorate": "5",
     "nprorate": "50",
-    "Crit. Res": "0",
-    "flee": "300"
+    "critres": "0",
+    "flee": "300",
+    "retaliation": ""
   },
   {
     "name": "Gwaimol",
@@ -794,10 +843,11 @@
     "mdef": "205",
     "mres": "5",
     "pprorate": "1",
-    "M. Prorat": "2",
+    "mprorate": "2",
     "nprorate": "3",
-    "Crit. Res": "25",
-    "flee": "204"
+    "critres": "25",
+    "flee": "204",
+    "retaliation": ""
   },
   {
     "name": "Ultimate machina",
@@ -810,10 +860,11 @@
     "mdef": "BREAK+HEAD:\n[PH1: 280\nPH2: 208\nPH3: 70]",
     "mres": "BREAK+HEAD:\n[PH1: 5\nPH2: 0\nPH3: -5]",
     "pprorate": "28",
-    "M. Prorat": "17",
+    "mprorate": "17",
     "nprorate": "25",
-    "Crit. Res": "15",
-    "flee": "208"
+    "critres": "15",
+    "flee": "208",
+    "retaliation": ""
   },
   {
     "name": "Ornlarf",
@@ -826,10 +877,11 @@
     "mdef": "710",
     "mres": "5",
     "pprorate": "1",
-    "M. Prorat": "1",
+    "mprorate": "1",
     "nprorate": "1",
-    "Crit. Res": "30",
-    "flee": "692"
+    "critres": "30",
+    "flee": "692",
+    "retaliation": ""
   },
   {
     "name": "Venena coenubia",
@@ -842,10 +894,11 @@
     "mdef": "VENENA: 300\nPILLAR: 290",
     "mres": "VENENA: 6\nPILLAR: 5",
     "pprorate": "10\nVENENA: 5\nPILLAR: 20",
-    "M. Prorat": "VENENA: 20\nPILLAR: 10",
+    "mprorate": "VENENA: 20\nPILLAR: 10",
     "nprorate": "0",
-    "Crit. Res": "0",
-    "flee": "N: 75\nPBROKEN: 225\nPILLAR: 109"
+    "critres": "0",
+    "flee": "N: 75\nPBROKEN: 225\nPILLAR: 109",
+    "retaliation": ""
   },
   {
     "name": "Shampy",
@@ -858,10 +911,11 @@
     "mdef": 290,
     "mres": 5,
     "pprorate": 20,
-    "M. Prorat": 25,
+    "mprorate": 25,
     "nprorate": 15,
-    "Crit. Res": 0,
-    "flee": 434
+    "critres": 0,
+    "flee": 434,
+    "retaliation": ""
   },
   {
     "name": "Crystal titan",
@@ -874,10 +928,11 @@
     "mdef": "N: 447\nBREAK+BODY: 306",
     "mres": "N: 25\nBREAK+BODY: 5\nFTS: 100",
     "pprorate": 30,
-    "M. Prorat": 25,
+    "mprorate": 25,
     "nprorate": 20,
-    "Crit. Res": 0,
-    "flee": 111
+    "critres": 0,
+    "flee": 111,
+    "retaliation": ""
   },
   {
     "name": "Mom fluck",
@@ -890,10 +945,11 @@
     "mdef": 271,
     "mres": 6,
     "pprorate": 15,
-    "M. Prorat": 20,
+    "mprorate": 20,
     "nprorate": 10,
-    "Crit. Res": 0,
-    "flee": 226
+    "critres": 0,
+    "flee": 226,
+    "retaliation": ""
   },
   {
     "name": "Zelbuse",
@@ -906,10 +962,11 @@
     "mdef": 462,
     "mres": 6,
     "pprorate": 20,
-    "M. Prorat": 20,
+    "mprorate": 20,
     "nprorate": 20,
-    "Crit. Res": 10,
-    "flee": 116
+    "critres": 10,
+    "flee": 116,
+    "retaliation": ""
   },
   {
     "name": "Mardula",
@@ -922,10 +979,11 @@
     "mdef": 394,
     "mres": 6,
     "pprorate": 5,
-    "M. Prorat": 5,
+    "mprorate": 5,
     "nprorate": 10,
-    "Crit. Res": 10,
-    "flee": 470
+    "critres": 10,
+    "flee": 470,
+    "retaliation": ""
   },
   {
     "name": "Seele zauga",
@@ -938,10 +996,11 @@
     "mdef": "SEELE: 320\nBLUE_GUARD: 155\nRED_GUARD: 155",
     "mres": "SEELE: 6\nBLUE_GUARD: 6\nRED_GUARD: 6\nN: 15\nBREAK+1: 10\nBREAK+2: 5\nBREAK+3: 0",
     "pprorate": "SEELE: 30\nBLUE G: 50\nRED G: 50",
-    "M. Prorat": "SEELE: 20\nBLUE G: 50\nRED G: 50",
+    "mprorate": "SEELE: 20\nBLUE G: 50\nRED G: 50",
     "nprorate": "SEELE: 5\nBLUE G: 50\nRED G: 50",
-    "Crit. Res": 25,
-    "flee": 240
+    "critres": 25,
+    "flee": 240,
+    "retaliation": ""
   },
   {
     "name": "King piton",
@@ -954,10 +1013,11 @@
     "mdef": 242,
     "mres": "N: 1-15\nBREAK+1: 10\nBREAK+2: 5\nBREAK+3: 0",
     "pprorate": 30,
-    "M. Prorat": 30,
+    "mprorate": 30,
     "nprorate": 30,
-    "Crit. Res": 10,
-    "flee": 122
+    "critres": 10,
+    "flee": 122,
+    "retaliation": ""
   },
   {
     "name": "Finstern the dark dragon",
@@ -970,10 +1030,11 @@
     "mdef": 250,
     "mres": "PH1: 6\nPH2: 16\nPH2+FTS: 6",
     "pprorate": 1,
-    "M. Prorat": 10,
+    "mprorate": 10,
     "nprorate": 100,
-    "Crit. Res": "PH1: 0\nPH2: 125\nPH2FTS: -130",
-    "flee": 25
+    "critres": "PH1: 0\nPH2: 125\nPH2FTS: -130",
+    "flee": 25,
+    "retaliation": ""
   },
   {
     "name": "Maton sword",
@@ -986,10 +1047,11 @@
     "mdef": "PH1: 300\nPH2: 1000\nPH3: 2500\nPH4: 3000\nPH4(Para/Stop): 300",
     "mres": 15,
     "pprorate": 5,
-    "M. Prorat": 5,
+    "mprorate": 5,
     "nprorate": 5,
-    "Crit. Res": 0,
-    "flee": 428
+    "critres": 0,
+    "flee": 428,
+    "retaliation": ""
   },
   {
     "name": "Tuscog",
@@ -1002,10 +1064,11 @@
     "mdef": "PH1: 253\nPH2: 253",
     "mres": 6,
     "pprorate": 5,
-    "M. Prorat": 20,
+    "mprorate": 20,
     "nprorate": 20,
-    "Crit. Res": "PH1: 0\nPH2: -25",
-    "flee": "PH1: 253\nPH2: 569"
+    "critres": "PH1: 0\nPH2: -25",
+    "flee": "PH1: 253\nPH2: 569",
+    "retaliation": ""
   },
   {
     "name": "Eroded pilz",
@@ -1018,10 +1081,11 @@
     "mdef": "N: 499\nN+GREEN: 826\nBreak+Left: mdef-166",
     "mres": "N: 26\nBREAK+LEFT: 6\nBREAK+HEAD: 20\nBREAK+LEFT+HEAD: 0",
     "pprorate": 20,
-    "M. Prorat": 5,
+    "mprorate": 5,
     "nprorate": 5,
-    "Crit. Res": "PURPLE: 23\nGREEN: 40",
-    "flee": 258
+    "critres": "PURPLE: 23\nGREEN: 40",
+    "flee": 258,
+    "retaliation": ""
   },
   {
     "name": "Pyxtica",
@@ -1034,10 +1098,11 @@
     "mdef": "RED: 437\nGREEN: 437\nPURPLE+Fatigue: 315\nGREEN: 315",
     "mres": "PURPLE: 7\nRED: 7\nGREEN: 7",
     "pprorate": 5,
-    "M. Prorat": 5,
+    "mprorate": 5,
     "nprorate": 5,
-    "Crit. Res": "PURPLE: 15\nRED: 50\nGREEN: 500",
-    "flee": 654
+    "critres": "PURPLE: 15\nRED: 50\nGREEN: 500",
+    "flee": 654,
+    "retaliation": ""
   },
   {
     "name": "Kuzto",
@@ -1050,10 +1115,11 @@
     "mdef": "535",
     "mres": 7,
     "pprorate": 5,
-    "M. Prorat": 5,
+    "mprorate": 5,
     "nprorate": 20,
-    "Crit. Res": 25,
-    "flee": 267
+    "critres": 25,
+    "flee": 267,
+    "retaliation": ""
   },
   {
     "name": "Sapphire roga",
@@ -1066,10 +1132,11 @@
     "mdef": "SAPPHIRE_ROGA:\n[PURPLE: 315\nRED: 320\nGREEN: 315]\nGOBLIN: 350\nRED FLYING: 175\nBLUE FLYING: 526",
     "mres": "SAPPHIRE_ROGA:\n[PURPLE: 7\nRED: 7\nGREEN: 7]",
     "pprorate": "SAPPH: 5\nGOBLIN: 5\nRED: 5\nBLUE: 15",
-    "M. Prorat": "SAPPH: 10\nGOBLIN: 10\nRED: 15\nBLUE: 5",
+    "mprorate": "SAPPH: 10\nGOBLIN: 10\nRED: 15\nBLUE: 5",
     "nprorate": "SAPPH: 5\nGOBLIN: 5\nRED: 5\nBLUE: 5",
-    "Crit. Res": "SAPPHIRE: \n[PURPLE: 15\nGREEN: 300\nRED:-1000]\nGOBLIN: 0\nRED_FLYING: 0\nBLUE_FLYING: 0",
-    "flee": "SAPPHIRE: 140"
+    "critres": "SAPPHIRE: \n[PURPLE: 15\nGREEN: 300\nRED:-1000]\nGOBLIN: 0\nRED_FLYING: 0\nBLUE_FLYING: 0",
+    "flee": "SAPPHIRE: 140",
+    "retaliation": ""
   },
   {
     "name": "Gravicep",
@@ -1085,7 +1152,8 @@
     "mprorate": "100",
     "nprorate": "1",
     "critres": "0",
-    "flee": "AGGRO<=7m: 275\nAGGRO>7m: 547"
+    "flee": "AGGRO<=7m: 275\nAGGRO>7m: 547",
+    "retaliation": ""
   },
   {
     "name": "Repthon",
@@ -1101,7 +1169,8 @@
     "mprorate": "5",
     "nprorate": "5",
     "critres": "PURPLE: 25\nRED: 25\nYELLOW: 150",
-    "flee": "333"
+    "flee": "333",
+    "retaliation": ""
   },
   {
     "name": "Vulture",
@@ -1117,7 +1186,8 @@
     "mprorate": "5",
     "nprorate": "10",
     "critres": "15",
-    "flee": "PH1: 426\nPH2: 280"
+    "flee": "PH1: 426\nPH2: 280",
+    "retaliation": ""
   },
   {
     "name": "Venena Metacoenubia",
@@ -1133,7 +1203,8 @@
     "mprorate": "VENENA: 5:\nSEDEM: 20",
     "nprorate": "VENENA: 1:\nSEDEM: 10",
     "critres": "VENENA: 5\nSEDEM: 25",
-    "flee": "VENENA: 436\nSEDEM: 283"
+    "flee": "VENENA: 436\nSEDEM: 283",
+    "retaliation": ""
   },
   {
     "name": "Demonic quasar",
@@ -1149,7 +1220,8 @@
     "mprorate": "5",
     "nprorate": "5",
     "critres": "25",
-    "flee": "410"
+    "flee": "410",
+    "retaliation": ""
   },
   {
     "name": "Pisteus",
@@ -1165,7 +1237,8 @@
     "mprorate": 15,
     "nprorate": 5,
     "critres": 0,
-    "flee": 432
+    "flee": 432,
+    "retaliation": ""
   },
   {
     "name": "Arachnidemon",
@@ -1181,7 +1254,8 @@
     "mprorate": 20,
     "nprorate": 10,
     "critres": 0,
-    "flee": 351
+    "flee": 351,
+    "retaliation": ""
   },
   {
     "name": "Black shadow",
@@ -1197,7 +1271,8 @@
     "mprorate": 10,
     "nprorate": 1,
     "critres": 10,
-    "flee": 294
+    "flee": 294,
+    "retaliation": ""
   },
   {
     "name": "Hexter",
@@ -1213,7 +1288,8 @@
     "mprorate": 25,
     "nprorate": 5,
     "critres": "NORM: 20\nEVERY 60s: 100",
-    "flee": 285
+    "flee": 285,
+    "retaliation": ""
   },
   {
     "name": "Irestida",
@@ -1229,7 +1305,8 @@
     "mprorate": 50,
     "nprorate": 1,
     "critres": "N: 100\nFREEZE: -100",
-    "flee": 265
+    "flee": 265,
+    "retaliation": ""
   },
   {
     "name": "Reliza",
@@ -1245,7 +1322,8 @@
     "mprorate": 10,
     "nprorate": 1,
     "critres": "PH1+PH2: 30\nPH3: 500",
-    "flee": 625
+    "flee": 625,
+    "retaliation": ""
   },
   {
     "name": "Gemma",
@@ -1261,7 +1339,8 @@
     "mprorate": 10,
     "nprorate": 10,
     "critres": 20,
-    "flee": 465
+    "flee": 465,
+    "retaliation": ""
   },
   {
     "name": "Ferzen\nthe rock dragon",
@@ -1277,7 +1356,8 @@
     "mprorate": 20,
     "nprorate": 10,
     "critres": 20,
-    "flee": 314
+    "flee": 314,
+    "retaliation": ""
   },
   {
     "name": "Junior dragon\nzyvio",
@@ -1293,7 +1373,8 @@
     "mprorate": 5,
     "nprorate": 5,
     "critres": 20,
-    "flee": 640
+    "flee": 640,
+    "retaliation": ""
   },
   {
     "name": "War dragon turba",
@@ -1309,7 +1390,8 @@
     "mprorate": 10,
     "nprorate": 10,
     "critres": 40,
-    "flee": 480
+    "flee": 480,
+    "retaliation": ""
   },
   {
     "name": "Vlam the flame dragon",
@@ -1325,7 +1407,8 @@
     "mprorate": "15",
     "nprorate": "10",
     "critres": "30",
-    "flee": "410"
+    "flee": "410",
+    "retaliation": ""
   },
   {
     "name": "Velum",
@@ -1341,7 +1424,8 @@
     "mprorate": "10",
     "nprorate": "5",
     "critres": "25",
-    "flee": "330"
+    "flee": "330",
+    "retaliation": ""
   },
   {
     "name": "Oculasignio",
@@ -1357,7 +1441,8 @@
     "mprorate": "Ocula: 5\nTepi: 5",
     "nprorate": "Ocula: 5\nTepi: 5",
     "critres": "Ocula: 30\nTepi: 20",
-    "flee": "310"
+    "flee": "310",
+    "retaliation": ""
   },
   {
     "name": "Gordel",
