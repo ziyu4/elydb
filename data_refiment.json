@@ -1,1 +1,36 @@
-
+{
+  "whatis": [
+    {
+      "title": "What is refinement ?",
+      "desc": "Refine = enhance equipment's combat power and defensive performance. \n\nRefining your armour, shield, additional gear can Gives All Damage Resistance(Refine Resistance) by (1% x Sum_of_total_ShieldArmorAdd_Refine_value) \n\nRefining your weapon increase their atk performance value: Gives more Weapon ATK by (Refine_value ^ 2)% + Refine_value"
+    }
+  ],
+  "advref": [
+    {
+      "title": "Character stat distribution",
+      "statdis": "i. Full tech (255) recommended for 0 - B/A\nii. Full luck (255) recommend for A -S",
+      "statdis": "- Full tech (255) recommended skills:\n1. Refine equipment level 10\n2. Mid class refinement level 10\n3. High class refinement level 10\n4. Expert class refinement level 10\n\n- Full luck (255) recommended skills:\n1. Refine equipment level 1"
+    }
+  ]
+  "ore_bonus": [
+    {
+      "desc" : "Ore Bonus has been added to 'Refine Equipment' when an ore is used to enhance your equipment. Points will now be accumulated on the equipment when the refinement is successful or fails according to the ore used, and the success rate of the refinement will increase when the accumulated points exceeds a certain value.",
+      "bonus" : [
+        {
+          "Hematite": "+1",
+          "Iron": "+2",
+          "High-purity Iron": "+6",
+          "Damascus Ore": "+2",
+          "High-purity Damascus": "+12",
+          "Mithril Ores": "+4",
+          "Mithril": "+8",
+          "High-purity Mithril": "+24",
+          "Orichalcum Ores": "+8",
+          "Orichalcum": "+16",
+          "High-purity Orichalcum": "+48"
+        }
+      ],
+      ""
+    }
+  ]
+}
