@@ -1,0 +1,47 @@
+[
+    {
+        "name": "Tune Up",
+        "condition": "Defeated 30 monsters 30 levels higher/lower than you",
+        "reward": "EXP Gain +10% for 1 day"
+    }, {
+        "name": "Warm Up",
+        "condition": "Defeated 60 monsters 20 levels higher/lower than you",
+        "reward": "EXP Gain +10% for 1 day"
+    }, {
+        "name": "Best Condition",
+        "condition": "Defeated 90 monsters 10 levels higher/lower than you",
+        "reward": "EXP Gain +10% for 1 day"
+    }, {
+        "name": "Haven't Played Enough!",
+        "condition": "Played more than 30 minutes in total today",
+        "reward": "EXP Gain +10% for 1 day"
+    }, {
+        "name": "Haven't Played Enough at All!",
+        "condition": "Played more than 60 minutes in total today",
+        "reward": "EXP Gain +10% for 1 day"
+    }, {
+        "name": "Today's Part-Time Job",
+        "condition": "Completed 1 quests today",
+        "reward": "100 Spina"
+    }, {
+        "name": "For the Public Good",
+        "condition": "Completed 3 quests today",
+        "reward": "300 Spina"
+    }, {
+        "name": "The Talk of the Town",
+        "condition": "Completed 6 quests today",
+        "reward": "600 Spina"
+    }, {
+        "name": "Bag Expansion",
+        "condition": "Obtain Bag Expansion",
+        "reward": "Ticket Piece x5"
+    }, {
+        "name": "Standard Ticket",
+        "condition": "Obtain Standard Ticket",
+        "reward": "Ticket Piece x10"
+    }, {
+        "name": "Leveling Ticket",
+        "condition": "Obtain Leveling Ticket",
+        "reward": "Ticket Piece x15"
+    }
+]
