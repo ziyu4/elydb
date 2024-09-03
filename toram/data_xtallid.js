@@ -3572,5 +3572,11 @@
     name: "Monster Kristal Abisal",
     view: `Daya Jarak Dekat +4%\nStability +4%\nKekebalan Fisik +6%\nkekebalan Sihir +6%\nMaxMP -200\nDengan perisai:\nResistensi Status Buruk +5%`,
   },
-
+  {
+    code: 512,
+    link: null,
+    type: "ADDITIONAL",
+    name: "Castilia",
+    view: `Daya Jarak Dekat +12%\nDaya Jarak Jauh +6%\nAkurasi +10%\nDengan Peralatan Sihir:\nMotion Speed +5%\nDengan Ninjutsu Scroll:\nPenetrasi Sihir +10%`
+  }
 ]
