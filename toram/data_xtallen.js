@@ -3559,17 +3559,24 @@
     view: `MaxHP -30%\nPhysical Resistance +10%\nMagic Resistance +10%\nCritical Rate +10`,
   },
   {
-    code: 509,
+    code: 510,
     link : 372,
     type: "SPECIAL",
     name: "Zeagrystal",
     view: `Short Range Damage +2%\nStability +2%\nPhysical Resistance +3%\nMagical Resistance +3%\nWith Shield:\nAilment Resistance +5%`,
   },
   {
-    code: 509,
+    code: 511,
     link : 372,
     type: "UPGRADE",
     name: "Abyssal Crystal Monster",
     view: `Short Range Damage +4%\nStability +4%\nPhysical Resistance +6%\nMagical Resistance +6%\nWith Shield:\nAilment Resistance +5%`,
   },
+  {
+    code: 512,
+    link: null,
+    type: "ADDITIONAL",
+    name: "Castilia",
+    view: `Short Range Damage +12%\nLong Range Damage +6%\nAccuracy +10%\nWith Magic Tools:\nMotion Speed +5%\nWith Ninjutsu Scroll:\nMagic Pierce +10%`
+  }
 ]
