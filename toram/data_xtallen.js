@@ -3578,5 +3578,11 @@
     type: "ADDITIONAL",
     name: "Castilia",
     view: `Short Range Damage +12%\nLong Range Damage +6%\nAccuracy +10%\nWith Magic Tools:\nMotion Speed +5%\nWith Ninjutsu Scroll:\nMagic Pierce +10%`
-  }
+  },
+  {
+    code: 513,
+    link: 317,
+    type: "UPGRADE",
+    name: "Fubbit",
+    view:  `ATK +6%\nPhysical Penetration +20%\nAggro -15%\nAilment Resistance -15%\nMaxMP -200`
 ]

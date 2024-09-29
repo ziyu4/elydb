@@ -3578,5 +3578,12 @@
     type: "ADDITIONAL",
     name: "Castilia",
     view: `Daya Jarak Dekat +12%\nDaya Jarak Jauh +6%\nAkurasi +10%\nDengan Peralatan Sihir:\nMotion Speed +5%\nDengan Ninjutsu Scroll:\nPenetrasi Sihir +10%`
+  },
+  {
+    code: 513,
+    link: 317,
+    type: "UPGRADE",
+    name: "Fubbit",
+    view:  `ATK +6%\nPenetrasi Fisik +20%\nAggro -15%\nResistensi Status Buruk -15%\nMax MP -200`
   }
 ]
