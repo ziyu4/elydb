@@ -3585,5 +3585,12 @@
     type: "UPGRADE",
     name: "Fubbit",
     view:  `ATK +6%\nPenetrasi Fisik +20%\nAggro -15%\nResistensi Status Buruk -15%\nMax MP -200`
+  },
+  {
+    code: 514,
+    link: 288,
+    type: "UPGRADE",
+    name: "Dondolion",
+    view: `MaxMP +500\nAttack MP Recovery +4\nKecepatan Merapal+300\nDengan Zirah Ringan:\nStability +6%`
   }
 ]
