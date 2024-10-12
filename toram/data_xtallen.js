@@ -3585,4 +3585,12 @@
     type: "UPGRADE",
     name: "Fubbit",
     view:  `ATK +6%\nPhysical Penetration +20%\nAggro -15%\nAilment Resistance -15%\nMaxMP -200`
+  },
+  {
+    code: 514,
+    link: 288,
+    type: "UPGRADE",
+    name: "Dondolion",
+    view: `MaxMP +500\nAttack MP Recovery +4\nCast Speed +300\nWith Light Armor:\nStability +6%`
+  }
 ]
