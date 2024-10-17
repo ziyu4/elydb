@@ -32,7 +32,7 @@ jobs:
     - name: Commit and push if it changed
       run: |-
         git config user.name "arasea2"
-        git config user.email "144518692+arasea2@users.noreply.github.com"
+        git config user.email "mikuh6077@gmail.com"
         git add -A
         timestamp=$(date '+%F %H:%M:%S %Z')
         git commit -m "Update data ${timestamp}" || exit 0
