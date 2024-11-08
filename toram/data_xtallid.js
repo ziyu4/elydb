@@ -3592,5 +3592,12 @@
     type: "UPGRADE",
     name: "Dondolion",
     view: `MaxMP +500\nAttack MP Recovery +4\nKecepatan Merapal+300\nDengan Zirah Ringan:\nStability +6%`
+  },
+  {
+    cod: 515,
+    link: 357,
+    type: "UPGRADE",
+    name: "Bemoz",
+    view: `MaxMP -150\nATK +6%\nMATK +6%\nPenetrasi Fisik +8%\nPenetrasi Sihir +8%\n Critical Rate +17`
   }
 ]

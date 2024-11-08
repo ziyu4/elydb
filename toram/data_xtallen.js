@@ -3592,5 +3592,12 @@
     type: "UPGRADE",
     name: "Dondolion",
     view: `MaxMP +500\nAttack MP Recovery +4\nCast Speed +300\nWith Light Armor:\nStability +6%`
+  },
+  {
+    cod: 515,
+    link: 357,
+    type: "UPGRADE",
+    name: "Bemoz",
+    view: `MaxMP -150\nATK +6%\nMATK +6%\nPhysical Pierce +8%\nMagic Pierce +8%\n Critical Rate +17`
   }
 ]
