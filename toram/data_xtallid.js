@@ -3599,5 +3599,33 @@
     type: "UPGRADE",
     name: "Bemoz",
     view: `MaxMP -150\nATK +6%\nMATK +6%\nPenetrasi Fisik +8%\nPenetrasi Sihir +8%\n Critical Rate +17`
+  },
+  {
+    code: 516,
+    link: 321,
+    type: "Upgrade",
+    name: "Sakura Musim Panas",
+    view: `MATK +11%\nCritical Rate +13\n Aggro -15%`
+  },
+  {
+    code: 517,
+    link: 203,
+    type: "Upgrade",
+    name: "Shawle Terlarang",
+    view: `MaxMP -200\nDaya Jarak Dekat +10%\nDaya Jarak Jauh +10%\nSerangan Menghunus +10%`
+  },
+  {
+    code: 518,
+    link: 317,
+    type: "Upgrade",
+    name: "Dango Sakura ",
+    view: `ATK +4%\nPenetrasi Fisik +20%\nAggro -10%\nResistansi Status Buruk -5%\nMaxMP -100`,
+  },
+  {
+    code: 519,
+    link: null,
+    type: "Normal",
+    name: "Jejak Bayangan nan Jauh",
+    view: `Penetrasi Fisik +5%\nASPD -250\nDaya Jarak Dekat +10%`
   }
 ]

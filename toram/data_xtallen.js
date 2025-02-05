@@ -1000,7 +1000,7 @@
     link: 358,
     type: "UPGRADE",
     name: "Dr. Leonardo II",
-    view: `MATK +3%\nLong Range Damage +6%\nCritical Rate +20%\nMaxHP +6000\nResistansi Status Buruk +5%`,
+    view: `MATK +3%\nLong Range Damage +6%\nCritical Rate +20%\nMaxHP +6000\nAilment Resistance +5%`,
   },
   {
     code: 145,
@@ -2211,7 +2211,7 @@
     link: null,
     type: "WEAPON",
     name: "Devil Dango",
-    view: `ATK +4%\nPhysical Pierce +20%\nAggro -10%\nResistansi Status Buruk -15%\nMaxMP -200`,
+    view: `ATK +4%\nPhysical Pierce +20%\nAggro -10%\nAilment Resistance -15%\nMaxMP -200`,
   },
   {
     code: 318,
@@ -2498,7 +2498,7 @@
     link: null,
     type: "ARMOR",
     name: "Dr. Leonardo",
-    view: `MATK +2%\nLong Range Damage +6%\nCritical Rate +10%\nMaxHP +5000\nResistansi Status Buruk +5%`,
+    view: `MATK +2%\nLong Range Damage +6%\nCritical Rate +10%\nMaxHP +5000\nAilment Resistance +5%`,
   },
   {
     code: 359,
@@ -3594,10 +3594,38 @@
     view: `MaxMP +500\nAttack MP Recovery +4\nCast Speed +300\nWith Light Armor:\nStability +6%`
   },
   {
-    cod: 515,
+    code: 515,
     link: 357,
     type: "UPGRADE",
     name: "Bemoz",
     view: `MaxMP -150\nATK +6%\nMATK +6%\nPhysical Pierce +8%\nMagic Pierce +8%\n Critical Rate +17`
+  },
+  {
+    code: 516,
+    link: 321,
+    type: "Upgrade",
+    name: "Springtime Sakura",
+    view: `MATK +11%\nCritical Rate +13\n Aggro -15%`
+  },
+  {
+    code: 517,
+    link: 203,
+    type: "Upgrade",
+    name: "Forbidden Shawle",
+    view: `MaxMP -200\nShort Range Damage +10%\nLong Range Damage +10%\nUnsheathe Attack +10%`
+  },
+  {
+    code: 518,
+    link: 317,
+    type: "Upgrade",
+    name: "Sakura Dango",
+    view: `ATK +4%\nPhysical Pierce +20%\nAggro -10%\nAilment Resistance -5%\nMaxMP -100`,
+  },
+  {
+    code: 519,
+    link: null,
+    type: "Normal",
+    name: "Remnant of Beyond",
+    view: `Physical Pierce +5%\nASPD -250\nShort Range Damage +10%`
   }
 ]
