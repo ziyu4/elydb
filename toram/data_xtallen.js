@@ -3627,5 +3627,110 @@
     type: "Normal",
     name: "Remnant of Beyond",
     view: `Physical Pierce +5%\nASPD -250\nShort Range Damage +10%`
+  },
+  {
+    code: 520,
+    link: 166,
+    type: "UPGRADE",
+    name: "Zega VIII",
+    view: `MaxHP +1100\nAttack MP Recovery +10\nMagical Resistance +9%\nWater resistance +8%`,
+  },
+  {
+    code: 521,
+    link: 520,
+    type: "UPGRADE",
+    name: "Zega IX",
+    view: `MaxHP +1200\nAttack MP Recovery +11\nMagical Resistance +10%\nWater resistance +9%`,
+  },
+  {
+    code: 522,
+    link: null,
+    type: "NORMAL",
+    name: "AGI +8",
+    view: `AGI +8`,
+  },
+  {
+    code: 523,
+    link: null,
+    type: "NORMAL",
+    name: "INT +8",
+    view: `INT +8`,
+  },
+  {
+    code: 524,
+    link: null,
+    type: "NORMAL",
+    name: "MP +400",
+    view: `MaxMP +400`,
+  },
+  {
+    code: 525,
+    link: 191,
+    type: "UPGRADE",
+    name: "Piscruva",
+    view: `ATK +11%\nMATK +15%\nASPD -300\nCSPD -300`
+  },
+  {
+    code: 526,
+    link: 197,
+    type: "UPGRADE",
+    name: "Erkuch",
+    view: `MATK +10%\nMagi Pierce +10%\nMaxHP +24%\nAggro -15%\nWith Staffs:\nMotion Speed +1%`
+  },
+  {
+    code: 527,
+    link: 201,
+    type: "UPGRADE",
+    name: "Supreme Evil Crystal Beast",
+    view: `MaxMP +400\nShort Range Damage +8%\nPhysical Pierce +10%`
+  },
+  {
+    code: 528,
+    link: 219,
+    type: "UPGRADE",
+    name: "Pillorocas",
+    view: `Critical Rate +50%\nPhysical Resistance +5\nMagical Resistance +5%\nCritical Rate -5`
+  },
+  {
+    code: 529,
+    link: 220,
+    type: "UPGRADE",
+    name: "Pillow Kitagawa II",
+    view: `Unsheathe Attack +12%\nCritical Attack +6\n MaxHP +3000\nRevival Time +30%`
+  },
+  {
+    code: 530,
+    link: 219,
+    type: "UPGRADE",
+    name: "Royal Ox King II",
+    view: `Short Range Damage +12%\nAccuracy +50\nMaxMP +200\nMaxHP -30%`
+  },
+  {
+    code: 531,
+    link: 150,
+    type: "UPGRADE",
+    name: "Black Peach Ninja",
+    view: `MaxHP +10000\nCritical Damage +9\nShort Range Damage +9%\nWith Ninja Scroll:\nAggro -25%`
+  },
+  {
+    code: 532,
+    link: 196,
+    type: "UPGRADE",
+    name: "Baluzan",
+    view: `ATK +11%\nDEX +9%\nASPD +7%`
+  },
+  {
+    code: 533,
+    link: 244,
+    type: "UPGRADE",
+    name: "Arpoon",
+    view: `Evasion Recharge +12&\nAggro +24%\nMATK -4%`
+  },
+  {
+    code: 534,
+    link: 184,
+    type: "UPGRADE",
+    name: "Rondine",
+    view: `MATK +11%\nINT +9%\nCSPD +7%`
   }
 ]
