@@ -3716,7 +3716,7 @@
     code: 532,
     link: 196,
     type: "UPGRADE",
-    name: "Baluzan",
+    name: "Bakuzan",
     view: `ATK +11%\nDEX +9%\nASPD +7%`
   },
   {
@@ -3732,5 +3732,54 @@
     type: "UPGRADE",
     name: "Rondine",
     view: `MATK +11%\nINT +9%\nCSPD +7%`
+  },
+  {
+    code: 535,
+    link: 223,
+    type: "UPGRADE",
+    name: "Goblin Zucotto",
+    view: `ATK +10%\nPhysical Pierce +10%\nMaxHP +24%\nAggro -15%\n With Shield: Motion Speed +1%`
+  },
+  {
+    code: 536,
+    link: 150,
+    type: "UPGRADE",
+    name: "Squirinja",
+    view: `MaxHP +10000\nCritical Damage +9\nShort Range Damage +6%\nWith Ninja Scroll:\nEvasion Recharge +25%`,
+  },
+  {
+    code: 536,
+    link: 171,
+    type: "UPGRADE",
+    name: "Goldian",
+    view: `MaxHP +5000\nReducce Dmg (Charge) +10%\nReduce Damage (Straight Line) +10%\nReduce Dmg (Player Epicenter) +10%, Reduce Dmg (Foe Epicenter) +10%`
+  },
+  {
+    code: 537,
+    link: 341,
+    type: "UPGRADE",
+    name: "Miracle Potum",
+    view: `Long Range Damage +10%\nEvasion Recharge +15%\nAdditional Melee +20%`
+  },
+  {
+    code: 538,
+    link: 112,
+    type: "UPGRADE",
+    name: "Colon Boss",
+    view: `MATK +10%\nCritical Rate +20%\nAccuracy -40`
+  },
+  {
+    code: 539,
+    link: null,
+    type: "Weapon",
+    name: "Stormun",
+    view: `ATK +5%\nMATK +5%\nAttack Speed +5%\nWater Resistance +5%\nWith Dual Sword:\nMotion Speed +2%\nMaxHP -9%\nWih Magic Tools:\nINT +5%`
+  },
+  {
+    code: 540,
+    link: 374,
+    type: "UPGRADE",
+    name: "Merzehal",
+    view: `MaxHP +25%\nPhysical Resistance +15%\nMATK +13%\nMagic Pierce +10%\nCast Speed +25%\nMaxMP -200`
   }
 ]
